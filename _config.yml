@@ -7,11 +7,6 @@ kramdown:
   math_engine: mathjax
 show_downloads: true
 google_analytics:
-author:
-  name: LK
-
-github_username: lkhagvadorj-amp
-linkedin_username: lkhagvadorj-sukhtsoodol
 
 minima:
   social_links:
