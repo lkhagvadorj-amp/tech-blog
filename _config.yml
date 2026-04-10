@@ -3,5 +3,7 @@ logo: /assets/images/logo.png
 description: Notes on best practices, tools, and technologies in software development and data engineering.
 theme: minima
 markdown: kramdown
+kramdown:
+  math_engine: mathjax
 show_downloads: true
 google_analytics:
