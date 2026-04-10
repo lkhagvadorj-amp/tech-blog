@@ -7,3 +7,20 @@ kramdown:
   math_engine: mathjax
 show_downloads: true
 google_analytics:
+author:
+  name: LK
+
+github_username: lkhagvadorj-amp
+linkedin_username: lkhagvadorj-sukhtsoodol
+
+minima:
+  social_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/lkhagvadorj-amp
+    - title: LinkedIn
+      icon: linkedin
+      url: https://linkedin.com/in/lkhagvadorj-sukhtsoodol
+    - title: CV
+      icon: link
+      url: https://docs.google.com/document/d/YOUR_DOC_ID
