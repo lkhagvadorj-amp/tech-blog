@@ -6,7 +6,7 @@ date: 2026-04-09
 
 Welcome to my blog.
 
-Here is inline math: \( a^2 + b^2 = c^2 \)
+Here is inline math: $ a^2 + b^2 = c^2 $
 
 Here is a displayed equation:
 
